@@ -8,9 +8,9 @@ entries:
       erigon.
     name: erigon
     type: application
-    digest: ee00ce22b6496d6a7e1067a0d062ce25c192ded8e4aa02ddf50a4a560a253229
+    digest: d7b5923baa43984346f38500f59e1a3c337b08c8cc1a4ae20d67f8d2bf30e4cf
     urls:
-    - https://github.com/aki263/op-charts/releases/download/op-erigon-v1/erigon.zip
+    - https://github.com/aki263/op-charts/releases/download/op-node-v1.1/erigon.tar.gz
     version: 0.0.5
   - apiVersion: v2
     appVersion: v1.10.26
