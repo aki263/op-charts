@@ -12,39 +12,6 @@ entries:
     urls:
     - https://github.com/aki263/op-charts/releases/download/op-node-v1.1/erigon.tar.gz
     version: 0.0.5
-  - apiVersion: v2
-    appVersion: v1.10.26
-    created: "2023-04-19T05:47:50.737063677Z"
-    description: A Helm chart for Ethereum Execution Engine for efficiency frontier,
-      erigon.
-    digest: 75cdbd34fd9ba61c8bcbb8133d034347bdabee356f8774a8f8a018aec5b2591c
-    name: erigon
-    type: application
-    urls:
-    - https://github.com/testinprod-io/op-charts/releases/download/erigon-0.0.4/erigon-0.0.4.tgz
-    version: 0.0.4
-  - apiVersion: v2
-    appVersion: v1.10.26
-    created: "2023-04-17T09:42:59.313101283Z"
-    description: A Helm chart for Ethereum Execution Engine for efficiency frontier,
-      erigon.
-    digest: 91a47c5215a9d1c4700e051282465db635013ee7fc3d77cf09c0254f75ca0cae
-    name: erigon
-    type: application
-    urls:
-    - https://github.com/testinprod-io/op-charts/releases/download/erigon-0.0.3/erigon-0.0.3.tgz
-    version: 0.0.3
-  - apiVersion: v2
-    appVersion: v1.10.26
-    created: "2023-03-22T05:15:39.379774041Z"
-    description: A Helm chart for Ethereum Execution Engine for efficiency frontier,
-      erigon.
-    digest: 227af99cce1103bdaf939135054d16d0e3c1e68b02f5c21e9df33072fd90829f
-    name: erigon
-    type: application
-    urls:
-    - https://github.com/testinprod-io/op-helm-charts/releases/download/erigon-0.0.1/erigon-0.0.1.tgz
-    version: 0.0.1
   geth:
   - apiVersion: v2
     appVersion: v1.10.26
@@ -56,26 +23,6 @@ entries:
     urls:
     - https://github.com/testinprod-io/op-charts/releases/download/geth-0.0.3/geth-0.0.3.tgz
     version: 0.0.3
-  - apiVersion: v2
-    appVersion: v1.10.26
-    created: "2023-04-17T08:36:01.556503942Z"
-    description: A Helm chart for Ethereum Execution Engine, geth.
-    digest: 0a8938c3c10634c5776690b2bd15c4a8abd51804a112a5d813624253053be2c3
-    name: geth
-    type: application
-    urls:
-    - https://github.com/testinprod-io/op-charts/releases/download/geth-0.0.2/geth-0.0.2.tgz
-    version: 0.0.2
-  - apiVersion: v2
-    appVersion: v1.10.26
-    created: "2023-03-22T05:15:39.542528284Z"
-    description: A Helm chart for Ethereum Execution Engine, geth.
-    digest: 733acd79e004b9fe3ea131bafb86292e8ac6fd0a94e9565b4f966df5f4aa1ee6
-    name: geth
-    type: application
-    urls:
-    - https://github.com/testinprod-io/op-helm-charts/releases/download/geth-0.0.1/geth-0.0.1.tgz
-    version: 0.0.1
   op-node:
   - apiVersion: v2
     appVersion: v0.10.13
@@ -88,15 +35,4 @@ entries:
     urls:
     - https://github.com/testinprod-io/op-charts/releases/download/op-node-0.0.2/op-node-0.0.2.tgz
     version: 0.0.2
-  - apiVersion: v2
-    appVersion: v0.10.13
-    created: "2023-03-22T05:15:39.70211514Z"
-    description: A consensus engine for OP Stack. You can build a new OP Stack chain
-      or connect to an existing one.
-    digest: 795505cce5c3683ea676300465456778dae1f78916d7531443efe399bb11f09c
-    name: op-node
-    type: application
-    urls:
-    - https://github.com/testinprod-io/op-helm-charts/releases/download/op-node-0.0.1/op-node-0.0.1.tgz
-    version: 0.0.1
 generated: "2024-03-18T06:54:02.072848333Z"
